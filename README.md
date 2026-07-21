@@ -4,7 +4,7 @@
 ---
 
 ### 🌟 About Me  
-- 🎓 BSSE student at **Sir Syed University of Engineering and Technology**  
+- 🎓 BSSE Final Year student at **Sir Syed University of Engineering and Technology**  
 - 🔍 Currently learning **Machine Learning, Data Analysis, and Visualization**  
 - 📊 Love working with real-world datasets  
 - 💬 Ask me about **Python, Pandas, Matplotlib, Seaborn, SQL, Machine Learning**  
