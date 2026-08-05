@@ -5,7 +5,7 @@
 
 ### 🌟 About Me  
 - 🎓 BSSE Final Year student at **Sir Syed University of Engineering and Technology**  
-- 🔍 Currently learning **FastAPI, Generative AI and Agentic AI**  
+- 🔍 Currently learning **Generative AI and Agentic AI**  
 - 📊 Love working with real-world datasets  
 - 💬 Ask me about **Python, Pandas, Matplotlib, Seaborn, SQL, Machine Learning**  
 - ⚡ Fun fact: *I turn raw data into meaningful insights!*  
