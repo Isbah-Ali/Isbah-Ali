@@ -5,9 +5,9 @@
 
 ### 🌟 About Me  
 - 🎓 BSSE Final Year student at **Sir Syed University of Engineering and Technology**  
-- 🔍 Currently learning **Generative AI and Agentic AI**  
+- 🔍 Expanding my skills in **Agentic AI**  
 - 📊 Love working with real-world datasets  
-- 💬 Ask me about **Python, Pandas, Matplotlib, Seaborn, SQL, PostgreSQL, Machine Learning, FastAPI**  
+- 💬 Ask me about **Python, Pandas, PostgreSQL, Machine Learning, FastAPI**  
 - ⚡ Fun fact: *I turn raw data into meaningful insights!*  
 
 ---
@@ -48,6 +48,9 @@
 
 <!-- Jupyter -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+
+<!-- FastAPI --> 
+<img src="https://jsdelivr.net" width="40" height="40"/>
 
 <!-- matplotlib -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/>
